@@ -1,4 +1,4 @@
-Hi! This is Pankaj Sharma  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi! This is Pankaj Sharma  
 
 A web developer who has expertise in both front-end and back-end development, as well as a solid understanding of computer networks and server technology. Through a strong process of research, planning, design, development, and testing, able to create robust full-cycle web applications that meet the needs of clients. Motivated to use proven teamwork, communication, and organizational skills to delivery high-quality work.
 
