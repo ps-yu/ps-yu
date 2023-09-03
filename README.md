@@ -19,6 +19,6 @@ A web developer who has expertise in both front-end and back-end development, as
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ps-yu&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps-yu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps-yu)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps-yu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials<p align="left"> <a href="https://www.github.com/ps-yu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pankaj-sharma-7156a4164/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
